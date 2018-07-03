@@ -4,4 +4,4 @@ packages:
 - stripe-http-streams/
 - stripe-http-client/
 - stripe-tests/
-resolver: lts-9.5
+resolver: nightly-2018-06-29
